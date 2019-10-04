@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+
+div description {
+    height: 200px;
+    width: 60%;
+    text-align: center;
+  }
+img {
+    width: 100%;
+    height: auto;
+  }
